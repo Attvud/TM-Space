@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icons / brands / Tumblr</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.08525,21 C10.2655,21 8.812,18.183 8.812,16.19175 L8.812,10.31025 L7,10.31025 L7,7.986 C9.7225,7.00125 10.384,4.539 10.5325,3.13425 C10.543,3.03825 10.61875,3 10.66225,3 L13.3,3 L13.3,7.5855 L16.90075,7.5855 L16.90075,10.31025 L13.28575,10.31025 L13.28575,15.91275 C13.29775,16.6635 13.567,17.691 14.941,17.691 L15.0085,17.691 C15.48175,17.676 16.123,17.53725 16.4605,17.37675 L17.3275,19.9455 C17.0005,20.4225 15.5275,20.976 14.2105,20.9985 L14.077,20.9985 L14.08525,21 Z" id="path-1"></path>
+    </defs>
+    <g id="icons-/-brands-/-Tumblr" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="div">
+            <polygon points="0 0 24 0 24 24 0 24"></polygon>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use fill="#000000" xlink:href="#path-1"></use>
+            <g id="colors-/-gray-/-black" mask="url(#mask-2)" fill="#000000">
+                <rect id="div" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icons / brands / Facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21,12.0000375 C21,7.029439 16.970606,3 12.0000375,3 C7.029439,3 3,7.029439 3,12.0000375 C3,16.4922181 6.29117805,20.2155129 10.5937512,20.8907163 L10.5937512,14.6016185 L8.30860526,14.6016185 L8.30860526,12.0000375 L10.5937512,12.0000375 L10.5937512,10.017203 C10.5937512,7.76157196 11.9374075,6.51563332 13.9931703,6.51563332 C14.9778482,6.51563332 16.0078298,6.69140974 16.0078298,6.69140974 L16.0078298,8.90626008 L14.8729899,8.90626008 C13.7549514,8.90626008 13.4062488,9.60002 13.4062488,10.3117588 L13.4062488,12.0000375 L15.9023714,12.0000375 L15.5033398,14.6016185 L13.4062488,14.6016185 L13.4062488,20.8907163 C17.7088895,20.2155129 21,16.4922181 21,12.0000375 Z" id="path-1"></path>
+    </defs>
+    <g id="icons-/-brands-/-Facebook" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="div">
+            <polygon points="0 0 24 0 24 24 0 24"></polygon>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use fill="#000000" xlink:href="#path-1"></use>
+            <g id="colors-/-gray-/-black" mask="url(#mask-2)" fill="#000000">
+                <rect id="div" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

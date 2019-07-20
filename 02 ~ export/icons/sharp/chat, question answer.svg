@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icons / sharp / chat, question answer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22,6 L19,6 L19,15 L6,15 L6,18 L18,18 L22,22 L22,6 Z M17,13 L17,2 L2,2 L2,17 L6,13 L17,13 Z" id="path-1"></path>
+    </defs>
+    <g id="icons-/-sharp-/-chat,-question-answer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="div">
+            <polygon points="0 0 24 0 24 24 0 24"></polygon>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use fill="#000000" xlink:href="#path-1"></use>
+            <g id="colors-/-gray-/-black" mask="url(#mask-2)" fill="#000000">
+                <rect id="div" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
