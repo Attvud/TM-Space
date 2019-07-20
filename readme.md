@@ -1,4 +1,4 @@
-# Project_name :ok_hand: Sitis Design system ~ v.2.1.0
+# TMguru :ok_hand: Sitis Design system ~ v.2.1.0
 
 Этот репозиторий создан, чтобы упростить жизнь всем, кто будет в дальнейшем работать над этим проектом. 
 
