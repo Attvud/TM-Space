@@ -3,7 +3,7 @@
 Этот репозиторий создан, чтобы упростить жизнь всем, кто будет в дальнейшем работать над этим проектом. 
 
 **Быстрые ссылки**
-- [Sketch Cloud / InVision](#)
+- [Sketch Cloud / InVision](https://sketch.cloud/s/2GWoy/a/4APjM3/play)
 - [Скачать исходник](/01%20~%20sources)
 - [Скачать логотип](/02%20~%20export/branding/~%20project%20logo.svg)
 - [Скачать иконки](#icons)
