@@ -3,7 +3,7 @@
 Этот репозиторий создан, чтобы упростить жизнь всем, кто будет в дальнейшем работать над этим проектом. 
 
 **Быстрые ссылки**
-- [Sketch Cloud / InVision](https://invis.io/9KT2TN9GHUN#/374917048_UX-_UI_-_Desktop_-_-_Home).
+- [Sketch Cloud / InVision](https://invis.io/9KT2TN9GHUN#/374917048_UX-_UI_-_Desktop_-_-_Home)
 - [Скачать исходник](/01%20~%20sources)
 - [Скачать логотип](/02%20~%20export/branding/~%20project%20logo.svg)
 - [Скачать иконки](#icons)
