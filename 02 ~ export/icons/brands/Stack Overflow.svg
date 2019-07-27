@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>icons / brands / Stack Overflow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16.8565,19.39875 L16.8565,14.59575 L18.457,14.59575 L18.457,21 L4,21 L4,14.59575 L5.5975,14.59575 L5.5975,19.39875 L16.8565,19.39875 L16.8565,19.39875 Z M7.20025,17.79825 L15.2545,17.79825 L15.2545,16.1955 L7.20025,16.1955 L7.20025,17.79825 Z M7.3945,14.15925 L15.2545,15.801 L15.59275,14.2485 L7.73425,12.60825 L7.3945,14.15925 Z M8.41375,10.36725 L15.6925,13.76475 L16.36975,12.30225 L9.09025,8.90475 L8.41375,10.35675 L8.41375,10.36725 Z M10.45,6.7785 L16.61275,11.91975 L17.632,10.70475 L11.47,5.565 L10.4575,6.77775 L10.45,6.7785 L10.45,6.7785 Z M14.43025,3 L13.12075,3.9705 L17.9245,10.4235 L19.234,9.453 L14.42875,3 L14.43025,3 Z" id="path-1"></path>
+    </defs>
+    <g id="icons-/-brands-/-Stack-Overflow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="div">
+            <polygon points="0 0 24 0 24 24 0 24"></polygon>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use fill="#000000" xlink:href="#path-1"></use>
+            <g id="colors-/-gray-/-black" mask="url(#mask-2)" fill="#000000">
+                <rect id="div" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
