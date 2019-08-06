@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>icons / brands / Google Play</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4.045,3 C4.0225,3.06975 4,3.13875 4,3.231 L4,20.65275 C4,20.8155 4.04575,20.90775 4.138,21 L12.69925,11.93025 L4.045,3 Z M13.27675,12.531 L15.49,14.81475 L12.33025,16.61475 C12.33025,16.61475 8.314,18.89775 6.09925,20.169 L13.27675,12.531 Z M13.8775,11.90775 L16.252,14.37675 C16.624,14.16975 19.53025,12.50775 19.945,12.27675 C20.383,12.02325 20.33875,11.67675 19.96675,11.49225 C19.6225,11.301 16.71625,9.636 16.27675,9.366 L13.8745,11.91 L13.8775,11.90775 L13.8775,11.90775 Z M13.27525,11.30775 L15.51325,8.931 L12.319,7.10775 C12.319,7.10775 7.11175,4.12875 5.37925,3.13425 L13.27675,11.30775 L13.27525,11.30775 Z" id="path-1"></path>
+    </defs>
+    <g id="icons-/-brands-/-Google-Play" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="div">
+            <polygon points="0 0 24 0 24 24 0 24"></polygon>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use fill="#000000" xlink:href="#path-1"></use>
+            <g id="colors-/-gray-/-black" mask="url(#mask-2)" fill="#000000">
+                <rect id="div" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
