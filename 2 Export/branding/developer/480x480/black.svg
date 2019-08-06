@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>branding / developer / 480x480 / black</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M70.7439381,87.8124007 L81.2653565,68.344951 L60.4278893,69.9444802 L47.6574019,47.8253471 L69.3571172,7.68 L111.211925,80.1746529 L89.5122093,120.32 L70.7439381,87.8124007 Z M39.0622182,63.7355456 L61.4844365,104.842946 L16.64,104.842946 L39.0622182,63.7355456 Z" id="path-1"></path>
+    </defs>
+    <g id="~-settings-&amp;-branding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="branding-/-developer-/-480x480-/-all" transform="translate(-240.000000, -240.000000)">
+            <g id="branding-/-developer-/-480x480-/-black" transform="translate(240.000000, 240.000000)">
+                <g id="colors-/-gray-/-black" fill="#000000">
+                    <rect id="div" x="0" y="0" width="240" height="240"></rect>
+                </g>
+                <g id="branding-/-developer-logo" transform="translate(56.000000, 56.000000)">
+                    <g id="div">
+                        <rect fill="#707074" opacity="0" x="0" y="0" width="128" height="128"></rect>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use fill="#000000" xlink:href="#path-1"></use>
+                        <g id="colors-/-gray-/-white" mask="url(#mask-2)" fill="#FFFFFF">
+                            <rect id="div" x="0" y="0" width="128" height="128"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

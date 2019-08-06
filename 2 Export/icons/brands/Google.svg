@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>icons / brands / Google</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,10.71375 L12,13.8 L17.1045,13.8 C16.89825,15.12375 15.5625,17.6805 12,17.6805 C8.92875,17.6805 6.42075,15.13875 6.42075,12 C6.42075,8.86125 8.9295,6.3195 12,6.3195 C13.7475,6.3195 14.91825,7.06125 15.58875,7.70625 L18.02925,5.35275 C16.46175,3.8895 14.42925,3 12,3 C7.02375,3 3,7.02375 3,12 C3,16.97625 7.02375,21 12,21 C17.1945,21 20.64,17.34825 20.64,12.2055 C20.64,11.6145 20.57625,11.163 20.49825,10.71375 L12,10.71375 Z" id="path-1"></path>
+    </defs>
+    <g id="icons-/-brands-/-Google" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="div">
+            <polygon points="0 0 24 0 24 24 0 24"></polygon>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use fill="#000000" xlink:href="#path-1"></use>
+            <g id="colors-/-gray-/-black" mask="url(#mask-2)" fill="#000000">
+                <rect id="div" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
