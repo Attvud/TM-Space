@@ -4,8 +4,8 @@
 
 **Быстрые ссылки**
 - [InVision ~ desktop](https://projects.invisionapp.com/share/VST6I85B7WE#/screens/376016010) || [InVision ~ mobile](https://projects.invisionapp.com/share/54T6IEY7KVF#/screens/376028335)
-- [Скачать исходник](/01%20~%20sources)
-- [Скачать логотип](/02%20~%20export/branding/~%20project%20logo.svg)
+- [Скачать исходник](/1%20sources)
+- [Скачать логотип](/2%20export/branding/~%20project%20logo.svg)
 - [Скачать иконки](#icons)
 - [Написать мне](mailto:w@res.pm)
 
