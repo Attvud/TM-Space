@@ -3,6 +3,7 @@
 Этот репозиторий создан, чтобы упростить жизнь всем, кто будет в дальнейшем работать над этим проектом. 
 
 **Быстрые ссылки**
+- [Video ~ desktop](https://vk.com/video554674725_456239018?list=b8d8ce914df2232340) || [Video ~ mobile](https://vk.com/video554674725_456239017?list=fac65f20f6db239749)
 - [InVision ~ desktop](https://projects.invisionapp.com/share/VST6I85B7WE#/screens/376016010) || [InVision ~ mobile](https://projects.invisionapp.com/share/54T6IEY7KVF#/screens/376028335)
 - [Скачать исходник](/1%20Sources)
 - [Скачать логотип](/2%20Export/branding/~%20project%20logo.svg)
