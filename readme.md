@@ -4,7 +4,7 @@
 
 **Быстрые ссылки**
 - [Video for developers](https://youtu.be/5WmXNMbPCjc)
-- [Video ~ desktop](https://vk.com/video554674725_456239018?list=b8d8ce914df2232340) || [Video ~ mobile](https://vk.com/video554674725_456239017?list=fac65f20f6db239749)
+- [Video ~ desktop](https://vk.com/video554674725_456239018) || [Video ~ mobile](https://vk.com/video554674725_456239017)
 - [InVision ~ desktop](https://projects.invisionapp.com/share/VST6I85B7WE#/screens/376016010) || [InVision ~ mobile](https://projects.invisionapp.com/share/54T6IEY7KVF#/screens/376028335)
 - [Скачать исходник](/1%20Sources)
 - [Скачать логотип](/2%20Export/branding/~%20project%20logo.svg)
