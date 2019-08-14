@@ -1,27 +1,31 @@
 <<<<<<< HEAD:.gitignore
 
 # Main
-animation
-_gitattributes
-_gitignore
+Animation
+1 Sources/Guides
 
 # Export
-01 ~ sources/protected
-02 ~ export/~ guidelines/dividers
-02 ~ export/~ guidelines/RU/behance
-02 ~ export/branding/developer
-02 ~ export/branding/project
-02 ~ export/branding/developer logo.svg
-02 ~ export/social media
-02 ~ export/system
-02 ~ export/UI elements
-02 ~ export/UX patterns
+## Branding
+2 Export/Branding/Developer
+2 Export/Branding/2 Developer Logo.svg
+## Guides
+2 Export/Guides/Dividers
+2 Export/Guides/RU/behance
+## UX Patterns
+2 Export/UX Patterns
+## UI Elements
+2 Export/UI Elements - Android
+2 Export/UI Elements - Desktop
+2 Export/UI Elements - iOS
+2 Export/UX Pattenrs
+## Other
+2 Export/Social Media
+2 Export/System
 
 # General
 .DS_Store
 .AppleDouble
 .LSOverride
-.gitignore
 .gitattributes
 
 # Icon must end with two \r
