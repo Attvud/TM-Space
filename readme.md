@@ -3,9 +3,9 @@
 Этот репозиторий создан, чтобы упростить жизнь всем, кто будет в дальнейшем работать над этим проектом. 
 
 **Быстрые ссылки**
-- [Video for developers](https://youtu.be/5WmXNMbPCjc)
+- [Video for developers 1](https://youtu.be/5WmXNMbPCjc) || [Video for developers 2](https://youtu.be/I9QZN2ghsqU)
 - [Video ~ desktop](https://vk.com/video554674725_456239018) || [Video ~ mobile](https://vk.com/video554674725_456239017)
-- [InVision ~ desktop](https://projects.invisionapp.com/share/VST6I85B7WE#/screens/376016010) || [InVision ~ mobile](https://projects.invisionapp.com/share/54T6IEY7KVF#/screens/376028335)
+- [InVision ~ desktop](https://invis.io/YZTGIYLBTGP#/379022878_UX-_UI_-_Desktop_-_-_Home) || [InVision ~ mobile](https://projects.invisionapp.com/share/54T6IEY7KVF#/screens/376028335)
 - [Скачать исходник](/1%20Sources)
 - [Скачать логотип](/2%20Export/branding/~%20project%20logo.svg)
 - [Скачать иконки](#icons)
