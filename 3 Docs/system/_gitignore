@@ -1,0 +1,48 @@
+<<<<<<< HEAD:.gitignore
+
+# Main
+animation
+01 · guidelines
+_gitattributes
+_gitignore
+
+# Export
+export/~ guidelines/dividers
+export/~ guidelines/RU/1920px
+export/~ guidelines/RU/behance
+export/branding/developer
+export/branding/project
+export/branding/developer logo.svg
+export/social media
+export/system
+export/UI elements
+export/UX patterns
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+.gitignore
+.gitattributes
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk>>>>>>> 42c37219c5e134865e6b048854cd322b82bfe2d8:.gitignore
