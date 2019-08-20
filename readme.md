@@ -41,6 +41,7 @@ P.S.: Если цвета в "Primary palette" и "Secondary palette" не от�
 body {
     font-family: "-apple-system",BlinkMacSystemFont,Arial,sans-serif;
     -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 ```
 
