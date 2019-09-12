@@ -10,6 +10,7 @@
 - Скачать логотип - [без текста](/2%20Export/branding/1%20Project%20Logo.svg), [с текстом](/2%20Export/branding/1%20Project%20Logo%20With%20Text.svg)
 - [Скачать иконки](#icons)
 - [Написать дизайнеру](mailto:w@res.pm)
+- [Правки 1](#icons)
 
 **Коротко о главном**
 
