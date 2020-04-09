@@ -1,28 +1,5 @@
 <<<<<<< HEAD:.gitignore
 
-# Main
-Animation
-1 Sources/Guides
-1 Sources/Protected
-
-# Export
-## Branding
-2 Export/Branding/Developer
-2 Export/Branding/2 Developer Logo.svg
-## Guides
-2 Export/Guides/Dividers
-2 Export/Guides/RU/behance
-## UX Patterns
-2 Export/UX Patterns
-## UI Elements
-2 Export/UI Elements - Android
-2 Export/UI Elements - Desktop
-2 Export/UI Elements - iOS
-2 Export/UX Pattenrs
-## Other
-2 Export/Social Media
-2 Export/System
-
 # General
 .DS_Store
 .AppleDouble
@@ -50,3 +27,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk>>>>>>> 42c37219c5e134865e6b048854cd322b82bfe2d8:.gitignore
+01 - design/Project - UX, UI.sketch
+01 - design/01 - Project - Components and Settings.sketch
+01 - design/01 - Project - Icons.sketch

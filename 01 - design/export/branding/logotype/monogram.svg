@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <path id="monogram-a" d="M80.692,65.968 L113.182,75.101 L94.5283019,108.679245 L10,128 L34.1509434,84.5283019 L82.409,73.4974523 L80.692,65.968 Z M118.679245,7.10542736e-15 L94.5283019,43.4716981 L50.25,53.592 L52.169,62.004 L16.074,51.858 L34.1509434,19.3207547 L118.679245,7.10542736e-15 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="128" height="128"/>
+    <mask id="monogram-b" fill="#fff">
+      <use xlink:href="#monogram-a"/>
+    </mask>
+    <use fill="#FFF" fill-opacity="0" xlink:href="#monogram-a"/>
+    <g fill="#000" mask="url(#monogram-b)">
+      <rect width="128" height="128"/>
+    </g>
+  </g>
+</svg>
